@@ -1,12 +1,12 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    min-height: 100vh;
     background-image: url("FCB.jpeg");
-    background-size: cover;
+    background-size: 100%;
     background-repeat: no-repeat; 
     background-position: center;
     height: 100%;
     margin: 0px;
+    padding:0px;
 }
 h1{
     position: relative;
