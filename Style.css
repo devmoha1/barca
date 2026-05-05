@@ -1,11 +1,14 @@
+html , body{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-image: url("FCB.jpeg");
     background-size:100%;
-    margin: 0px;
-    padding: 0px;
     background-repeat: no-repeat; 
-    height:100%;
+    background-position:center;
 }
 h1{
     position: relative;
