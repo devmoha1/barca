@@ -1,2 +1,0 @@
-site for barca fans 
-
